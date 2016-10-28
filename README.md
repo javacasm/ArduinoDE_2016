@@ -2,7 +2,7 @@
 
 ### 14-16 diciembre 2016
 
-## [Programa](./Programa.md)
+## [Programa](./programa.md)
 
 
 @javacasm
