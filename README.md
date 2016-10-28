@@ -6,5 +6,3 @@
 
 
 @javacasm
-
-#ArduinoDE2016
