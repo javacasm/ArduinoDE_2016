@@ -1,6 +1,20 @@
+# Curso Básico presencial de Arduino
+
+## Organizado por Darwin Eventur
+
+### 14-16 diciembre 2016
+
+## [Programa](./programa.md)
+
+### José Antonio Vacas @javacasm
+
+![cc](./images/CCbySQ_88x31.png)
+
+## [https://github.com/javacasm/ArduinoDE_2016](https://github.com/javacasm/ArduinoDE_2016)
+
 # Programa
 
-## Miércoles 14 de Diciembre 16:00 a 21:30
+## Miércoles 14 de Diciembre 16:00 a 21:00
 
 ### BLOQUE 1: Introducción Arduino: Historia y hardware abierto (2 horas)
 * Arduino: Historia, presente y futuro
@@ -12,7 +26,7 @@
 * Conexionado y nomenclatura
 * Apéndice: Introducción electrónica y montaje de prototipos
 
-## Jueves 15 de Diciembre de 16:00 a 20:00
+## Jueves 15 de Diciembre de 16:00 a 19:30
 
 ### BLOQUE 3: Programando Arduino: el IDE y el lenguaje (2 horas)
 * IDE: instalación en diferentes plataformas. Uso, documentación
