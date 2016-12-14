@@ -1,18 +1,16 @@
-# Arduino Básico
+# Curso Básico presencial de Arduino
 
-## Curso para el CEP de Cordoba
+## Organizado por Darwin Eventur
 
-19, 20, 25 y 26 de Abril y 9 de Junio 2016
+### 14-16 diciembre 2016
 
-## Nivel básico
+## [Programa](./programa.md)
 
-José Antonio Vacas @javacasm
+### José Antonio Vacas @javacasm
 
 ![cc](./images/CCbySQ_88x31.png)
 
-[https://github.com/javacasm/ArduinoBasicoCEPCordoba](https://github.com/javacasm/ArduinoBasicoCEPCordoba)
-
-([Enlace al moodle del curso](http://educacionadistancia.juntadeandalucia.es/profesorado/course/view.php?id=2418))
+## [https://github.com/javacasm/ArduinoDE_2016](https://github.com/javacasm/ArduinoDE_2016)
 
 
 # Recursos: ¿dónde obtener ejemplos?
@@ -103,7 +101,7 @@ Un pulsador activa la luz de la escalera, cuya duración depende del valor de un
 
 ![HardwareLuzEscalera](./images/HardwareLuzEscalera.png)
 
-## [Enlace al Proyecto](http://bitbloq.bq.com/#/bloqsproject/546e2764e4b0bde006d0857e:f38326dd-180b-4f46-8963-3cbd35d909a1)
+## [Enlace al   Proyecto](http://bitbloq.bq.com/#/bloqsproject/546e2764e4b0bde006d0857e:f38326dd-180b-4f46-8963-3cbd35d909a1)
 
 ## Programa
 
