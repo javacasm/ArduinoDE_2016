@@ -11,3 +11,14 @@
 ![cc](./images/CCbySQ_88x31.png)
 
 ## [https://github.com/javacasm/ArduinoDE_2016](https://github.com/javacasm/ArduinoDE_2016)
+
+
+## [Arduino](./Arduino.md)
+
+## [Bitbloq](./BitBloq.md)
+
+## [Proyectos](./Proyectos.md)
+
+## [Presentaciones](./presentaciones)
+
+## [Dónde comprar](./Comprar.md)
