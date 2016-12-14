@@ -1,18 +1,16 @@
-# Arduino Básico
+# Curso Básico presencial de Arduino
 
-## Curso para el CEP de Cordoba
+## Organizado por Darwin Eventur
 
-19, 20, 25 y 26 de Abril y 9 de Junio 2016
+### 14-16 diciembre 2016
 
-## Nivel básico
+## [Programa](./programa.md)
 
-José Antonio Vacas @javacasm
+### José Antonio Vacas @javacasm
 
 ![cc](./images/CCbySQ_88x31.png)
 
-[https://github.com/javacasm/ArduinoBasicoCEPCordoba](https://github.com/javacasm/ArduinoBasicoCEPCordoba)
-
-([Enlace al moodle del curso](http://educacionadistancia.juntadeandalucia.es/profesorado/course/view.php?id=2418))
+## [https://github.com/javacasm/ArduinoDE_2016](https://github.com/javacasm/ArduinoDE_2016)
 
 
 # ¿Dónde Comprar?
