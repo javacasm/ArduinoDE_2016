@@ -27,11 +27,11 @@ Si hay un producto que puede representar el boom de la irrupción de la tecnolog
 
 ![pinout](./images/Arduino_Uno_pinout.png)
 
-Nosotros usaremos una versión "mejorada": BT-ZUM
+Y si usamos una versión "mejorada" BT-ZUM ...
 
 ![zum](./images/ZUM.png)
 
-## [¿qué es arduino?](./presentaciones/%200.0%20-%20Introducci%C3%B3n%20a%20Arduino.pdf)
+## [¿qué es arduino?](./presentaciones/0.0 - Introducción a Arduino.pdf)
 
 * * *
 
