@@ -14,7 +14,7 @@
 
 # Programa
 
-## Miércoles 14 de Diciembre 16:00 a 21:00
+## Miércoles 14 de Diciembre
 
 ### BLOQUE 1: Introducción Arduino: Historia y hardware abierto (2 horas)
 * Arduino: Historia, presente y futuro
@@ -26,7 +26,7 @@
 * Conexionado y nomenclatura
 * Apéndice: Introducción electrónica y montaje de prototipos
 
-## Jueves 15 de Diciembre de 16:00 a 19:30
+## Jueves 15 de Diciembre
 
 ### BLOQUE 3: Programando Arduino: el IDE y el lenguaje (2 horas)
 * IDE: instalación en diferentes plataformas. Uso, documentación
@@ -37,7 +37,7 @@
 * IO Digitales. Teoría electrónica
 * IO Analógicas. Teoría electrónica
 
-## Viernes 16 de Diciembre 9:00 a 14:30
+## Viernes 16 de Diciembre
 
 ### BLOQUE 5: Trabajando con sistemas de potencia: Transistores y Relé (2 horas)
 * Utilizando transistores para amplificar señales
