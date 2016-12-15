@@ -20,4 +20,6 @@
 
 ## [Semáforo](./semaforo/semaforo.ino)
 
+## [Semáforo que se activa con pulsador](./semaforoPulsador/semaforoPulsador.ino)
+
 ## [Semáforo con duración regulada por un potenciometro](./semaforovariable/semaforovariable.ino)
