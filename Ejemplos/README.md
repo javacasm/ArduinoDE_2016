@@ -14,4 +14,10 @@
 
 # Ejemplos
 
+(por orden de complejidad)
+
 ## [Parpadeo](./Parpadep/Parpadeo.ino)
+
+## [Semáforo](./semaforo/semaforo.ino)
+
+## [Semáforo con duración regulada por un potenciometro](./semaforovariable/semaforovariable.ino)
