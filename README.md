@@ -23,4 +23,6 @@
 
 ## [Presentaciones](./presentaciones)
 
+## [Simuladores](./Simuladores.md)
+
 ## [Dónde comprar](./Comprar.md)
