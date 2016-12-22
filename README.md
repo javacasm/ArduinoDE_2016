@@ -26,3 +26,5 @@
 ## [Simuladores](./Simuladores.md)
 
 ## [Dónde comprar](./Comprar.md)
+
+## [Tarea](./Tarea.md)
