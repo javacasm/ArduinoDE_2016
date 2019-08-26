@@ -4,11 +4,11 @@
 
 ### 14-16 diciembre 2016
 
-## [Programa](./programa.md)
+## [Programa](../programa.md)
 
 ### José Antonio Vacas @javacasm
 
-![cc](./images/CCbySQ_88x31.png)
+![cc](../images/CCbySQ_88x31.png)
 
 ## [https://github.com/javacasm/ArduinoDE_2016](https://github.com/javacasm/ArduinoDE_2016)
 
@@ -16,7 +16,7 @@
 
 (por orden de complejidad)
 
-## [Parpadeo](./Parpadep/Parpadeo.ino)
+## [Parpadeo](./Parpadeo/Parpadeo.ino)
 
 ## [Semáforo](./semaforo/semaforo.ino)
 
@@ -32,4 +32,4 @@
 
 ## [Mando a distancia por Bluetooth](./MandoDistancia/MandoDistancia.ino)
 
-## [Controlando uan tira de Led RGB a 12V](./LegRGB/LegRGB.ino)
+## [Controlando una tira de Led RGB a 12V](./LegRGB/LegRGB.ino)
