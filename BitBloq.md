@@ -24,6 +24,10 @@ Los bloques están agrupados en familias, cada una de ellas con un color concret
 
 # Minicurso Bitbloq
 
+En el [siguiente vídeo](https://www.youtube.com/watch?v=rOdMRhhQTUs) puedes ver una mini-presentación de bitbloq
+
+[![Prensentaci'on bitbloq](https://img.youtube.com/v0/rOdMRhhQTUs/0.jpg)](https://www.youtube.com/watch?v=rOdMRhhQTUs)](https://www.youtube.com/watch?v=rOdMRhhQTUs)
+
 Bitbloq es un entorno de programación visual que nos permite crear programas para Arduino y placas compatibles y transferir los mismos a las placas de una forma sencilla.
 
 Podemos acceder directamente desde su web  http://bitbloq.bq.com/
