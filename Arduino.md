@@ -16,6 +16,7 @@
 
 Si hay un producto que puede representar el boom de la irrupción de la tecnología en el aula ese es Arduino
 
+En el siguiente [vídeo](https://www.youtube.com/watch?v=ihJpHAO3Ff8) puedes ver qué es arduino
 [![que es arduino](https://img.youtube.com/vi/ihJpHAO3Ff8/0.jpg)](https://www.youtube.com/watch?v=ihJpHAO3Ff8)
 
 ## Así lo vemos nosotros
@@ -29,11 +30,12 @@ Si hay un producto que puede representar el boom de la irrupción de la tecnolog
 
 ![pinout](./images/Arduino_Uno_pinout.png)
 
-Y si usamos una versión "mejorada" BT-ZUM ...
-
-![zum](./images/ZUM.png)
 
 ## [¿qué es arduino?](./presentaciones/0.0 - Introducción a Arduino.pdf)
+
+Si no tienes una placa arduino puedes usar [un simulador para empezar a aprender](](https://www.youtube.com/watch?v=ihJpHAO3Ff8))
+
+[![Simulador Arduino](https://img.youtube.com/vi/VoWSmP5UpmI/0.jpg)](https://youtu.be/VoWSmP5UpmI?t=151)
 
 * * *
 
