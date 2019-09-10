@@ -16,6 +16,8 @@
 
 Si hay un producto que puede representar el boom de la irrupción de la tecnología en el aula ese es Arduino
 
+[Vídeo: ¿qué es arduino?](https://www.youtube.com/watch?v=ihJpHAO3Ff8)
+
 ## Así lo vemos nosotros
 
 ![arduino](./images/Arduino_Uno_-_R3.jpg)
