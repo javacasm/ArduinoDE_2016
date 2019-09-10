@@ -31,7 +31,7 @@ En el siguiente [vídeo](https://www.youtube.com/watch?v=ihJpHAO3Ff8) puedes ver
 ![pinout](./images/Arduino_Uno_pinout.png)
 
 
-## [¿qué es arduino?](./presentaciones/0.0 - Introducción a Arduino.pdf)
+Puedes [¿Qué es arduino?](./presentaciones/0.0 - Introducción a Arduino.pdf)
 
 Si no tienes una placa arduino puedes usar [un simulador para empezar a aprender](](https://www.youtube.com/watch?v=ihJpHAO3Ff8))
 
@@ -39,13 +39,18 @@ Si no tienes una placa arduino puedes usar [un simulador para empezar a aprender
 
 * * *
 
+Puedes aprender más sobre Arduino en [esta presentación](https://github.com/javacasm/ArduinoDE_2016/raw/master/presentaciones/0.0%20-%20Introducci%C3%B3n%20a%20Arduino.pdf)
+
 # Para hacer un proyecto necesitamos:
 
-* ### Programa
+* ### Programa que contiene unas instrucciones
+
+![parpadeo](http://diwo.bq.com/wp-content/uploads/2015/09/ejemplo_parpadeo_led.png)
+
 
 * ### Montaje ([electrónica](./presentaciones/4.0%20-%20Introducci%C3%B3n%20a%20la%20electr%C3%B3nica.pdf))
 
-### ¿Qué es un programa? un conjunto de instrucciones ordenadas
+### ¿Qué es un programa?: un conjunto de instrucciones ordenadas
 
 #### Programa parpadeo (blink)
 
@@ -55,7 +60,7 @@ Si no tienes una placa arduino puedes usar [un simulador para empezar a aprender
 * Esperamos
 * Volvemos al principio
 
-#### (descargar el programa en la placa)
+#### Cómo descargar el programa en la placa
 
 #### Instalación de Bitbloq
 
